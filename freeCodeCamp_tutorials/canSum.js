@@ -7,9 +7,6 @@ const canSum = (targetSum, numbers, memo={}) => {
         if (canSum(a, numbers, memo)==true) return true  
     }
     memo[targetSum] = false
-    console.log(memo)
     return false
 }
-console.log(canSum(301, [3,28]))
-
-//https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org 1hr 26m
+console.log(canSum(300, [2,28]))
