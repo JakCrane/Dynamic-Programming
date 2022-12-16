@@ -1,4 +1,5 @@
 https://leetcode.com/problems/longest-common-subsequence/discussion/
 solve this pls future jack
 
+https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org
 
